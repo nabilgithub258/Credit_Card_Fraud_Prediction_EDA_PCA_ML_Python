@@ -15,7 +15,7 @@ We employed several classification models to achieve the best performance, inclu
 
 - Logistic Regression
 - Random Forest
-- Gradient Boosting
+- StackingClassifier
 - XGBoost Classifier (best model)
 
 ## Results
