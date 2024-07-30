@@ -7,7 +7,7 @@ This project focuses on predicting fraudulent transactions in a credit card data
 
 - **Dataset**: The dataset used for this project contains credit card transactions labeled as Class.
 - **Objective**: To build a classification model that accurately predicts the `Class` (fraudulent or non-fraudulent) of a transaction.
-- **Best Model**: Our best-performing model is the XGBoost Classifier, which achieved a precision of 0.97 and an accuracy of 1.00.
+- **Best Model**: Our best-performing model is the XGBoost Classifier, which achieved a precision of 0.95 and an accuracy of 1.00.
 
 ## Models Employed
 
