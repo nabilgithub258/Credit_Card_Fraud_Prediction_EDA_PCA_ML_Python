@@ -20,7 +20,7 @@ We employed several classification models to achieve the best performance, inclu
 
 ## Results
 
-- **Precision**: 0.97
+- **Precision**: 0.95
 - **Accuracy**: 1.00
 
 These results were achieved using the XGBoost Classifier, which outperformed all other models in terms of precision and accuracy.
@@ -32,7 +32,7 @@ These results were achieved using the XGBoost Classifier, which outperformed all
 
 ## Conclusion
 
-This project successfully demonstrates the use of various classification techniques to detect fraudulent transactions in credit card data. Our best model, the XGBoost Classifier, achieved exceptional performance with a precision of 0.97 and accuracy of 1.00.
+This project successfully demonstrates the use of various classification techniques to detect fraudulent transactions in credit card data. Our best model, the XGBoost Classifier, achieved exceptional performance with a precision of 0.95 and accuracy of 1.00.
 
 ## Acknowledgements
 
